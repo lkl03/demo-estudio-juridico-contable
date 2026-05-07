@@ -1,2 +1,7 @@
-# demo-estudio-juridico-contable
-Demo web para Estudio Jurídico Contable — diseñada por eterlab.
+# Estudio Jurídico Contable
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
